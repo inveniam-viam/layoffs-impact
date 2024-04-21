@@ -1,0 +1,46 @@
+﻿Company,Ticker,Location_HQ,Industry,Date,Laid_Off_Count
+Amazon,AMZN,Seattle,Retail,11/16/22,10000
+Amazon,AMZN,Seattle,Retail,1/4/23,8000
+Amazon,AMZN,Seattle,Retail,10/28/22,150
+Amazon,AMZN,Seattle,Retail,3/20/23,9000
+Amazon,AMZN,Seattle,Retail,7/13/23,80
+Amazon,AMZN,Seattle,Retail,11/13/23,180
+Amazon,AMZN,Seattle,Retail,1/18/24,30
+Amazon,AMZN,Seattle,Retail,2/6/24,400
+Google,GOOG,SF Bay Area,Consumer,1/20/23,12000
+Google,GOOG,SF Bay Area,Consumer,9/13/23,75
+Google,GOOG,SF Bay Area,Consumer,10/18/23,40
+Google,GOOG,SF Bay Area,Consumer,1/10/24,1000
+Meta,META,SF Bay Area,Consumer,11/9/22,11000
+Meta,META,SF Bay Area,Consumer,3/14/23,10000
+Microsoft,MSFT,Seattle,Other,1/18/23,10000
+Microsoft,MSFT,Seattle,Other,5/10/23,158
+Microsoft,MSFT,Seattle,Other,7/18/23,1000
+Microsoft,MSFT,Seattle,Other,1/25/24,1900
+Netflix,NFLX,SF Bay Area,Media,4/28/22,25
+Netflix,NFLX,SF Bay Area,Media,5/17/22,150
+Netflix,NFLX,SF Bay Area,Media,6/23/22,300
+Netflix,NFLX,SF Bay Area,Media,9/14/22,30
+Apple Inc.,AAPL,SF Bay Area,Consumer,3/28/24,52
+Apple Inc.,AAPL,SF Bay Area,Consumer,3/28/24,35
+Apple Inc.,AAPL,SF Bay Area,Consumer,3/28/24,49
+Apple Inc.,AAPL,SF Bay Area,Consumer,3/28/24,58
+Apple Inc.,AAPL,SF Bay Area,Consumer,3/28/24,15
+Apple Inc.,AAPL,SF Bay Area,Consumer,3/28/24,23
+Apple Inc.,AAPL,SF Bay Area,Consumer,3/28/24,11
+Apple Inc.,AAPL,SF Bay Area,Consumer,3/28/24,371
+Apple Inc.,AAPL,SF Bay Area,Consumer,3/28/24,121
+Apple Inc.,AAPL,SF Bay Area,Consumer,3/25/20,45
+Apple Inc.,AAPL,SF Bay Area,Consumer,3/25/20,48
+Apple Inc.,AAPL,SF Bay Area,Consumer,2/15/19,190
+Apple Inc.,AAPL,SF Bay Area,Consumer,1/15/16,49
+Apple Inc.,AAPL,SF Bay Area,Consumer,5/25/18,52
+Tesla,TSLA,Austin,Automotive,8/18/23,55
+Tesla,TSLA,Austin,Automotive,6/29/22,229
+Tesla,TSLA,Austin,Automotive,6/29/22,229
+Tesla,TSLA,Austin,Automotive,6/27/22,2
+Tesla,TSLA,Austin,Automotive,6/27/22,5
+Tesla,TSLA,Austin,Automotive,6/27/22,1
+Tesla,TSLA,Austin,Automotive,6/27/22,41
+Tesla,TSLA,Austin,Automotive,5/5/20,156
+Tesla,TSLA,Austin,Automotive,5/5/20,11083
